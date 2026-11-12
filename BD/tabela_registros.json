@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "matricula": "2026A01",
+    "nome": "CARLOS EDUARDO SILVA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 8,
+    "alertaTempo": false
+  },
+  {
+    "id": 2,
+    "matricula": "2026A02",
+    "nome": "MARIANA COSTA SOUZA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BEBEDOURO",
+    "minutosFora": 4,
+    "alertaTempo": false
+  },
+  {
+    "id": 3,
+    "matricula": "2026A03",
+    "nome": "RODRIGO ALVES PEREIRA",
+    "turma": "3B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 18,
+    "alertaTempo": true
+  },
+  {
+    "id": 5,
+    "matricula": "2026A05",
+    "nome": "GABRIEL MENDES ROCHA",
+    "turma": "3A",
+    "data": "2026-10-24",
+    "presente": false,
+    "motivoSaida": "FALTA",
+    "minutosFora": 0,
+    "alertaTempo": false
+  },
+  {
+    "id": 6,
+    "matricula": "2026A06",
+    "nome": "ANA JULIA RIBEIRO",
+    "turma": "3A",
+    "data": "2026-10-24",
+    "presente": true,
+    "motivoSaida": "ENFERMARIA",
+    "minutosFora": 25,
+    "alertaTempo": true
+  },
+  {
+    "id": 7,
+    "matricula": "2026A07",
+    "nome": "VICTOR CIRULLI",
+    "turma": "2B",
+    "data": "2026-10-30",
+    "presente": true,
+    "motivoSaida": "CHAZINHO COM DIRETORA",
+    "minutosFora": 5,
+    "alertaTempo": true
+  },
+  {
+    "id": 8,
+    "matricula": "2026A07",
+    "nome": "VICTOR CIRULLI",
+    "turma": "2B",
+    "data": "2026-10-30",
+    "presente": true,
+    "motivoSaida": "CHAZINHO COM DIRETORA",
+    "minutosFora": 5,
+    "alertaTempo": true
+  },
+  {
+    "id": 9,
+    "matricula": "2026A07",
+    "nome": "DAVI TORDATO",
+    "turma": "2B",
+    "data": "2026-10-30",
+    "presente": true,
+    "motivoSaida": "CHAZINHO COM DIRETORA",
+    "minutosFora": 5,
+    "alertaTempo": true
+  }
+]
